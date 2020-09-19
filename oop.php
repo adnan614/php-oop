@@ -10,6 +10,8 @@ class Mobile
        echo "Model Number: $model";
    } 
    
-
+function wegufuw(){
+     echo "adnan";
+  }
 }
 ?>
